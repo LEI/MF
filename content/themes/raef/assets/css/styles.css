@@ -45,6 +45,14 @@
     border-radius: 100%;
 }
 
+.post > .post-excerpt {
+	margin: 1.75rem 0 0 0;
+}
+
+.post-header > .post-meta {
+	margin: 1.75rem 0 0 0;
+}
+
 .post-meta > a {
 	color: white;
 	background-color: rgba(0,0,0,0.25);
