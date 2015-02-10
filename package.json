@@ -11,7 +11,9 @@
   "author": "Guillaume Frichet <guillaume.frichet@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "express-hbs": "^0.7.11",
     "ghost": "^0.5.8",
+    "lodash": "^2.4.1",
     "moment": "^2.9.0",
     "screenfull": "^2.0.0"
   }
